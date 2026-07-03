@@ -15,4 +15,4 @@ irm https://raw.githubusercontent.com/981726/block-razer/refs/heads/main/unblock
 - This doesn't stop razer hardware KBM/Etc from working 
 - Targets razers installation
 
-Credits to # Chris Titus Tech.
+Credits to **Chris Titus Tech**.
