@@ -7,10 +7,12 @@ Run as Administrator in PowerShell | Block
 ```
 irm https://raw.githubusercontent.com/ChrisTitusTech/block-razer/main/block.ps1 | iex
 ```
-Credits to **Chris Titus Tech**.
+
 ```
 irm https://raw.githubusercontent.com/981726/block-razer/refs/heads/main/unblock.ps1 | iex
 ```
 # Notes
 - This doesn't stop razer hardware KBM/Etc from working 
 - Targets razers installation
+
+Credits to # Chris Titus Tech.
